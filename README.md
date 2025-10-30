@@ -20,6 +20,7 @@ The platform demonstrates full-stack development principles including RESTful AP
 
 **Backend**
 - Express.js (middleware routing and request handling)
+- Node.js (Creating APIS using the controller-service-repository method)
 - MongoDB (NoSQL database for scalable data storage)
 - Redis (for caching and token management)
 - Dispatcher (for event-driven updates)
@@ -44,6 +45,6 @@ Frontend (React + Redux)
         ↓
  REST API Gateway (Express.js)
         ↓
- Backend Service (Spring Boot)
+ Backend Service (Node.js)
         ↓
  Database Layer (MongoDB + Redis)
