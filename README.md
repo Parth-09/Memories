@@ -1,6 +1,6 @@
 # 📸 Memories Project
 
-A full-stack social media platform where users can create, view, and share memorable moments with others in real time. The project is designed with a focus on scalability, performance, and clean architecture using **React**, **Redux**, **Java**, **Spring Boot**, **Express**, **MongoDB**, and **Redis**.
+A full-stack social media platform where users can create, view, and share memorable moments with others in real time. The project is designed with a focus on scalability, performance, and clean architecture using **React**, **Redux**, **Express**, **MongoDB**.
 
 ---
 
@@ -17,10 +17,8 @@ The platform demonstrates full-stack development principles including RESTful AP
 - React.js (Hooks, reusable components)
 - Redux (for global state management)
 - HTML5, CSS3, JavaScript (ES6+)
-- ngrok (for tunneling backend during development)
 
 **Backend**
-- Java & Spring Boot (RESTful APIs)
 - Express.js (middleware routing and request handling)
 - MongoDB (NoSQL database for scalable data storage)
 - Redis (for caching and token management)
