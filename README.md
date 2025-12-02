@@ -9,6 +9,8 @@ A full-stack social media platform where users can create, view, and share memor
 The **Memories Project** allows users to post their memories with titles, descriptions, and photos, while securely managing authentication and data retrieval.  
 The platform demonstrates full-stack development principles including RESTful API design, optimized database queries, and state management using Redux.
 
+Live Link:  [Memories Project, Social Media Application](https://memories-project-parth.netlify.app/)
+
 ---
 
 ## ⚙️ Tech Stack
